@@ -4,7 +4,7 @@
 
 # 重点功能
 
-master_one_key.sh： 一键搭建master
+master_one_key.sh： 一键搭建master,用法 sh master_one_key.sh <hostname> <master的API访问ip>,注意hostname不能带有下划线等特殊字符。
 
 # 辅助功能
 

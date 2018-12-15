@@ -4,7 +4,7 @@ if [ $# -lt 2 ]; then
 fi
 sh util_scripts/pre_install.sh
 sh util_scripts/d_t.sh
-sh util_scripts/master-main.sh $1 $2
+sh util_scripts/master_main.sh $1 $2
 sh util_scripts/after_init.sh
 sh util_scripts/check_state.sh
 
