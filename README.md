@@ -6,7 +6,7 @@
 
 master_one_key.sh： 一键搭建master
 
-#辅助功能
+# 辅助功能
 
 reset_master: 如果安装master过程失败，则用此脚本来重新初始化
 
