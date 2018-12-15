@@ -12,4 +12,4 @@ reset_master: 如果安装master过程失败，则用此脚本来重新初始化
 
 tear_down.sh: 如果需要剔除node，则用此脚本
 
-node_join.sh: 初始化master后，需要获得master的信息来让node加入到master的集群中
+join_node.sh: 初始化master后，需要获得master的信息来让node加入到master的集群中
