@@ -1,2 +1,2 @@
-sh download_images1.sh
+sh download_images.sh
 sh tag_images.sh
